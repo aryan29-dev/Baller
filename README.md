@@ -17,4 +17,5 @@ A Java-based basketball roster application implementing sorting and searching al
 
 ### Technologies Used
 - Java
+- VS Code
 - Eclipse
